@@ -1,4 +1,4 @@
-FROM jboss/keycloak
+FROM ubuntu
 
 ARG KEYCLOAK_USER=admin
 ARG KEYCLOAK_PASSWORD=admin
